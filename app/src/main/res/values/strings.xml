@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlightApp</string>
+    <string name="flight_arrival_input">Start</string>
+    <string name="flight_destination_input">Destination</string>
+    <string name="flight_departure">Departure</string>
+    <string name="flight_destination">Destination\n</string>
+    <string name="confirm">Confirm</string>
+    <string name="no_flight">No Flight Available</string>
+    <string name="validationMsgDepartureArrival"> Departure Date Should be before Arrival Date </string>
+    <string name="price">Price</string>
+    <string name="more_detail">More Detail</string>
+</resources>
